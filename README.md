@@ -11,3 +11,5 @@ Displays the nowcast for each indicator and the optimally combined set of indica
 
 Currently set up to nowcast US consumption using monthly PCE data, non-farm payrolls, and real retail sales. Other indicators or a different target variable (such as GDP) can be easily switched by changing the FRED code.
 
+A "hobby" nowcasting website using a modified version of this code for each component of US GDP is available at www.usnowcast.net. It is not fully maintained and runs on data available from FRED only.
+
